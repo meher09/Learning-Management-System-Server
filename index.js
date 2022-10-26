@@ -14,15 +14,12 @@ app.get('/course-categories', (req, res) => {
 });
 
 
-app.get('/category/:id', (req, res) => {
-    const id = req.params.id;
-    if (id === '08') {
-        res.send(news);
-    }
-    else {
-        const course_category = courses.filter(n => n.category === id);
-        res.send(course_category);
-    }
+app.get('/category/:slug', (req, res) => {
+
+    const slug = req.params.slug;
+    const course_category = courses.filter(course => course.category.slug === slug);
+    res.send(course_category);
+
 })
 
 
