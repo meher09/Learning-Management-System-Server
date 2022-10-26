@@ -14,13 +14,20 @@ app.get('/course-categories', (req, res) => {
 });
 
 
-app.get('/category/:slug', (req, res) => {
+app.get('/courses', (req, res) => {
+    res.send(courses)
+});
 
+
+app.get('/category/:slug', (req, res) => {
     const slug = req.params.slug;
     const course_category = courses.filter(course => course.category.slug === slug);
     res.send(course_category);
 
 })
+
+
+
 
 
 app.listen(port, () => { })
