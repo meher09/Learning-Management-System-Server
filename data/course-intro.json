@@ -5,6 +5,10 @@
         "name": "Basic Javascript Code",
         "rating": 4.8,
         "total_vedio": 15,
+        "fee": {
+            "course_fee": 60,
+            "discount": 0
+        },
         "instructor": "Marcus J. Davis",
         "instructor_image": "https:\/\/randomuser.me\/api\/portraits\/men\/75.jpg",
         "image": "https://i.imgur.com/VynTDuN.png",
@@ -64,6 +68,10 @@
         "name": "Advance JS & React Bootcamp",
         "rating": 4.6,
         "total_vedio": 20,
+        "fee": {
+            "course_fee": 200,
+            "discount": 99
+        },
         "instructor": "Debra T. Wilkes",
         "instructor_image": "https:\/\/randomuser.me\/api\/portraits\/men\/17.jpg",
         "image": "https://i.imgur.com/yIOtFlz.png",
@@ -109,6 +117,10 @@
         "name": "Bootstrap A to Z ",
         "rating": 4.5,
         "total_vedio": 36,
+        "fee": {
+            "course_fee": 160,
+            "discount": 59
+        },
         "instructor": "Jeanie K. Vest",
         "instructor_image": "https:\/\/randomuser.me\/api\/portraits\/men\/27.jpg",
         "image": "https://i.imgur.com/AhqKUfL.png",
@@ -142,6 +154,10 @@
         "name": "Learn Tailwind in 24 hour",
         "rating": 4.8,
         "total_vedio": 35,
+        "fee": {
+            "course_fee": 99,
+            "discount": 23
+        },
         "instructor": "Joyce R. Peterson",
         "instructor_image": "https:\/\/randomuser.me\/api\/portraits\/men\/26.jpg",
         "image": "https://i.imgur.com/a3F5Nfy.png",
@@ -184,6 +200,10 @@
         "name": "Basic to Advance Python",
         "rating": 4.8,
         "total_vedio": 25,
+        "fee": {
+            "course_fee": 99,
+            "discount": 22
+        },
         "instructor": "Angela I. Gipson",
         "instructor_image": "https:\/\/randomuser.me\/api\/portraits\/men\/27.jpg",
         "image": "https://i.imgur.com/tfTrC5U.png",
@@ -252,6 +272,10 @@
             "id": "05",
             "slug": "python"
         },
+        "fee": {
+            "course_fee": 39,
+            "discount": 9
+        },
         "contents": [
             "Module Introduction",
             "How The Web Works",
@@ -290,6 +314,10 @@
         "image": "https://i.imgur.com/3ByCzCK.png",
         "description": "Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. Built by experienced developers, Django takes care of much of the hassle of web development,",
         "reviews_count": 214,
+        "fee": {
+            "course_fee": 49,
+            "discount": 10
+        },
         "category": {
             "id": "03",
             "slug": "web-development"
@@ -335,6 +363,10 @@
             "id": "03",
             "slug": "web-development"
         },
+        "fee": {
+            "course_fee": 69,
+            "discount": 29
+        },
         "whatlearn": [
             "Prepare for Industry Certification Exam",
             "Earn Certification that is Proof of your Competence",
@@ -371,6 +403,10 @@
         "image": "https://i.imgur.com/dr6czpy.jpg",
         "description": "Web applications are web apps that you can run on a web browser. Since Express. js only requires javascript, it becomes easier for programmers and developers to build web applications and API without any effort.",
         "reviews_count": 1822,
+        "fee": {
+            "course_fee": 199,
+            "discount": 19
+        },
         "category": {
             "id": "06",
             "slug": "server-side-programming"
