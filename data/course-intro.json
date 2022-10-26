@@ -13,7 +13,50 @@
         "category": {
             "id": "02",
             "slug": "programming"
-        }
+        },
+        "whatlearn": [
+            "Become an advanced, confident, and modern JavaScript developer from scratch",
+            "Build 6 beautiful real-world projects for your portfolio (not boring toy apps)",
+            "Become job-ready by understanding how JavaScript really works behind the scenes",
+            "Course pathways: design your unique learning path according to your goals!",
+            "How to think and work like a developer: problem-solving, researching, workflows",
+            "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc.",
+            "Modern ES6+ from the beginning: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc.",
+            "Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc.",
+            "Complex concepts like the 'this' keyword, higher-order functions, closures etc.",
+            "Asynchronous JavaScript: Event loop, promises, async/await, AJAX calls and APIs",
+            "How to architect your code using flowcharts and common patterns",
+            "Modern tools for 2022 and beyond: NPM, Parcel, Babel and ES6 modules",
+            "Practice your skills with 50+ challenges and assignments (solutions included)",
+            "Get fast and friendly support in the Q&A area"
+        ],
+        "contents": [
+            "Section Intro",
+            "Hello World!",
+            "A Brief Introduction to JavaScript",
+            "Linking a JavaScript File",
+            "Values and Variables",
+            "Practice Assignments",
+            "Data Types",
+            "let, const and var",
+            "Basic Operators",
+            "Operator Precedence",
+            "Coding Challenge #1",
+            "Strings and Template Literals",
+            "Taking Decisions: if / else Statements",
+            "Coding Challenge #2",
+            "Type Conversion and Coercion",
+            "Truthy and Falsy Values",
+            "Equality Operators: == vs. ===",
+            "Boolean Logic",
+            "Logical Operators",
+            "Coding Challenge #3",
+            "The switch Statement",
+            "Statements and Expressions",
+            "The Conditional (Ternary) Operator",
+            "Coding Challenge #4",
+            "JavaScript Releases: ES5, ES6+ and ESNext"
+        ]
     },
     {
         "id": 2,
@@ -29,7 +72,36 @@
         "category": {
             "id": "04",
             "slug": "javascript"
-        }
+        },
+        "whatlearn": [
+            "Build powerful, fast, user-friendly and reactive web apps",
+            "Provide amazing user experiences by leveraging the power of JavaScript with ease",
+            "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now",
+            "Learn all about React Hooks and React "
+        ],
+        "contents": [
+            "What Are Components? And Why Is React All About Them?",
+            "React Code Is Written In A Declarative Way!",
+            "A Note About New React Projects & NodeJS",
+            "Creating a new React Project",
+            "The Starting Project",
+            "Analyzing a Standard React Project",
+            "Introducing JSX",
+            "How React Works",
+            "Building a First Custom Component",
+            "Writing More Complex JSX Code",
+            "Adding Basic CSS Styling",
+            "Outputting Dynamic Data & Working with Expressions in JSX",
+            "Passing Data via props",
+            "Adding normal JavaScript Logic to Components",
+            "Splitting Components Into Multiple Components",
+            "Time to Practice: React & Component Basics",
+            "The Concept of Composition (children props)",
+            "A First Summary",
+            "A Closer Look At JSX",
+            "Organizing Component Files",
+            "An Alternative Function Syntax"
+        ]
     },
     {
         "id": 3,
@@ -40,7 +112,24 @@
         "instructor": "Jeanie K. Vest",
         "instructor_image": "https:\/\/randomuser.me\/api\/portraits\/men\/27.jpg",
         "image": "https://i.imgur.com/AhqKUfL.png",
-        "description": "If you plan to make your living by building websites, learning Bootstrap will save you a ton of time and trouble. ",
+        "description": "Bootstrap is a powerful front-end framework that allows developers to create responsive websites and web applications. It provides a wide range of features and components that can be used to create beautiful and user-friendly interfaces. Bootstrap is also easy to learn and use, which makes it an ideal choice for those who are new to web development. ",
+        "whatlearn": [
+            "Learn how to create and use all 24 components, 9 helpers and 16 utilities of the latest version of Bootstrap 5",
+            "Learn how to customize and extend Bootstrap 5 with Sass: change global options and customize color, layout, content, forms, components, helpers and utilities",
+            "How to create fluid and responsive layouts",
+            "How to structure all kinds of conten",
+            "Accessibility best practices",
+            "Practice with a special built Bootstrap 5 Learning Kit (200+ source files) and 38 coding exercises featuring more than 200 automated tests against your code",
+            "How to use breakpoints and the grid system",
+            "How to create 6 different responsive projects"
+        ],
+        "contents": [
+            "Guide to taking this course",
+            "About this section",
+            "Understanding layout",
+            "Container",
+            "Fluid container"
+        ],
         "reviews_count": 5851,
         "category": {
             "id": "01",
@@ -56,12 +145,38 @@
         "instructor": "Joyce R. Peterson",
         "instructor_image": "https:\/\/randomuser.me\/api\/portraits\/men\/26.jpg",
         "image": "https://i.imgur.com/a3F5Nfy.png",
-        "description": "Tailwind CSS makes it quicker to write and maintain the code of your application. By using this utility-first framework, you don't have to write custom CSS to style your application.",
+        "description": "This is a fun project-based course to learn how to create awesome layouts using the Tailwind CSS framework and get comfortable using utility classes over something like Bootstrap, which uses component-based classes. Let's take a look at the outline for this course",
         "reviews_count": 3161,
         "category": {
             "id": "01",
             "slug": "web-design"
-        }
+        },
+        "contents": [
+            "Utility-First Example",
+            "Working With Colors",
+            "Container & Spacing",
+            "Typography",
+            "Width & Height",
+            "Layout & Position",
+            "Backgrounds & Shadows",
+            "Borders & Border Radius",
+            "Filters",
+            "Breakpoint Classes & Media Queries",
+            "Columns",
+            "Flexbox",
+            "Grid",
+            "Transition & Transform",
+            "Animation Classes & Keyframes",
+            "Config & Customization",
+            "Dark Mode"
+        ],
+        "whatlearn": [
+            "Learn to create and edit layouts super fast",
+            "Learn the Tailwind utility classes using a code sandbox",
+            "Build 5 mini-projects and 6 website projects",
+            "Learn how to set up a dev environment using the Tailwind CLI",
+            "Configure your styles to create custom layouts"
+        ]
     },
     {
         "id": 5,
@@ -77,7 +192,50 @@
         "category": {
             "id": "05",
             "slug": "python"
-        }
+        },
+        "contents": [
+            "Command Line Basics",
+            "Running Python Code",
+            "Getting the Notebooks and the Course Material",
+            "Git and Github Overview (Optional)",
+            "Introduction to Python Data Types",
+            "Numbers: Simple Arithmetic",
+            "Numbers Quiz",
+            "Variable Assignments",
+            "Introduction to Strings",
+            "Quick Print Check",
+            "Indexing and Slicing with Strings",
+            "String Indexing",
+            "String Slicing",
+            "String Properties and Methods",
+            "Strings Quiz",
+            "Print Formatting with Strings",
+            "Print Formatting FAQs",
+            "Print Formatting",
+            "Lists in Python",
+            "Dictionaries in Python",
+            "Dictionaries",
+            "Tuples with Python",
+            "Sets in Python",
+            "Sets",
+            "Booleans in Python",
+            "Sets and Booleans Quiz",
+            "I/O with Basic Files in Python",
+            "Resources for More Basic Practice",
+            "Python Objects and Data Structures Assessment Test Overview",
+            "Python Objects and Data Structures Assessment Test Solutions"
+        ],
+        "whatlearn": [
+            "You will master the Python programming language by building 100 unique projects over 100 days.",
+            "You will learn automation, game, app and web development, data science and machine learning all using Python.",
+            "You will be able to program in Python professionally",
+            "You will learn Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib.",
+            "Create a portfolio of 100 Python projects to apply for developer jobs",
+            "Be able to build fully fledged websites and web apps with Python",
+            "Be able to use Python for data science and machine learning",
+            "Build games like Blackjack, Pong and Snake using Python",
+            "Build GUIs and Desktop applications with Python"
+        ]
     },
     {
         "id": 6,
@@ -93,7 +251,33 @@
         "category": {
             "id": "05",
             "slug": "python"
-        }
+        },
+        "contents": [
+            "Module Introduction",
+            "How The Web Works",
+            "Creating a Node Server",
+            "The Node Lifecycle & Event Loop",
+            "Controlling the Node.js Process",
+            "Understanding Requests",
+            "Sending Responses",
+            "Request & Response Headers",
+            "Routing Requests",
+            "Redirecting Requests",
+            "Parsing Request Bodies",
+            "Understanding Event Driven Code Execution",
+            "Blocking and Non-Blocking Code",
+            "Node.js - Looking Behind the Scenes",
+            "Using the Node Modules System",
+            "Time to Practice - The Basics",
+            "Useful Resources & Links"
+        ],
+        "whatlearn": [
+            "Work with one of the most in-demand web development programming languages",
+            "Learn the basics as well as advanced concepts of NodeJS in great detail",
+            "Build modern, fast and scalable server-side web applications with NodeJS, databases like SQL or MongoDB and more",
+            "Understand the NodeJS ecosystem and build server-side rendered apps, REST APIs and GraphQL APIs",
+            "Get a thorough introduction to DenoJS"
+        ]
     },
     {
         "id": 7,
@@ -109,7 +293,32 @@
         "category": {
             "id": "03",
             "slug": "web-development"
-        }
+        },
+        "whatlearn": [
+            "Create a fully functional web site using the Full-Stack with Django 1.11",
+            "Learn how to use HTML to create website content",
+            "Use CSS to create beautifully styled sites",
+            "Learn how to take advantage of Bootstrap to quickly style sites",
+            "Use Javascript to interact with sites on the Front-End",
+            "Learn how to use jQuery to quickly work with the DOM",
+            "Understand HTTP requests",
+            "Create fantastic landing pages",
+            "Learn the power of Python to code out your web applications",
+            "Use Django as a back end for the websites",
+            "Implement a full Models-Views-Templates structure for your site"
+        ],
+        "contents": [
+            "Introduction to URLs, Views, and Routing",
+            "Project Application Exercise",
+            "Project Application Exercise - Solution",
+            "Django - Views and URLs Overview",
+            "Function Based Views - Basics",
+            "Dynamic Views - Routing Logic",
+            "Using ReponseNotFound and 404 Pages",
+            "Redirects Basics",
+            "Reverse URLs and URL Names",
+            "Connecting a View to a Template"
+        ]
     },
     {
         "id": 8,
@@ -125,7 +334,31 @@
         "category": {
             "id": "03",
             "slug": "web-development"
-        }
+        },
+        "whatlearn": [
+            "Prepare for Industry Certification Exam",
+            "Earn Certification that is Proof of your Competence",
+            "Hours and Hours of Video Instruction",
+            "Dozens of Code Examples to Download and Study",
+            "Over 25 Engaging Lab Exercises",
+            "All Lab Solutions",
+            "Instructor Available by Email or on the Forums",
+            "All Free Tools",
+            "Comprehensive Coverage of HTML and CSS",
+            "Client Side Programming with Javascript",
+            "Server Side Development with PHP",
+            "Learn Database Development with mySQL"
+        ],
+        "contents": [
+            "Welcome to the course",
+            "About the Specialist Designation",
+            "About the Instructor",
+            "Obtain the Tools of the Trade",
+            "Learning Basic Document Structure",
+            "Anatomy of a Tag- The only vocabulary you need to know",
+            "Section lab Video PDF and Solution",
+            "Wrap-Up Section"
+        ]
     },
     {
         "id": 9,
@@ -141,6 +374,34 @@
         "category": {
             "id": "06",
             "slug": "server-side-programming"
-        }
+        },
+        "contents": [
+            "Module Introduction",
+            "What is Express.js?",
+            "Installing Express.js",
+            "Adding Middleware",
+            "How Middleware Works",
+            "Express.js - Looking Behind the Scenes",
+            "Handling Different Routes",
+            "Parsing Incoming Requests",
+            "Limiting Middleware Execution to POST Requests",
+            "Using Express Router",
+            "Adding a 404 Error Page",
+            "Filtering Paths",
+            "Creating HTML Pages",
+            "Serving HTML Pages",
+            "Returning a 404 Page",
+            "Using a Helper Function for Navigation",
+            "Styling our Pages",
+            "Serving Files Statically",
+            "Useful Resources & Links"
+        ],
+        "whatlearn": [
+            "Work with one of the most in-demand web development programming languages",
+            "Learn the basics as well as advanced concepts of NodeJS in great detail",
+            "Build modern, fast and scalable server-side web applications with NodeJS, databases like SQL or MongoDB and more",
+            "Understand the NodeJS ecosystem and build server-side rendered apps, REST APIs and GraphQL APIs",
+            "Get a thorough introduction to DenoJS"
+        ]
     }
 ]

@@ -9,14 +9,17 @@ const categories = require('./data/course-categories.json');
 const courses = require('./data/course-intro.json');
 
 
+
 app.get('/course-categories', (req, res) => {
     res.send(categories)
 });
 
 
+
 app.get('/courses', (req, res) => {
     res.send(courses)
 });
+
 
 
 app.get('/category/:slug', (req, res) => {
@@ -27,7 +30,10 @@ app.get('/category/:slug', (req, res) => {
 })
 
 
-
-
+app.get('/course/:slug', (req, res) => {
+    const slug = req.params.slug;
+    const selectedCourse = courses.find(course => course.slug === slug);
+    res.send(selectedCourse);
+});
 
 app.listen(port, () => { })
