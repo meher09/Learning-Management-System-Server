@@ -1,32 +1,26 @@
 [
     {
         "id": "01",
-        "slug": "web-design",
         "name": "Web Design"
     },
     {
         "id": "02",
-        "slug": "programming",
         "name": "Progamming Language"
     },
     {
         "id": "03",
-        "slug": "web-development",
         "name": "Web Development"
     },
     {
         "id": "04",
-        "slug": "javascript",
         "name": "Javascript"
     },
     {
         "id": "05",
-        "slug": "python",
         "name": "Python"
     },
     {
         "id": "06",
-        "slug": "server-side-programming",
         "name": "Server Side Progamming"
     }
 ]
